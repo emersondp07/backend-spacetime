@@ -19,7 +19,9 @@
     "typescript": "*"
   },
   "dependencies": {
+    "@fastify/cors": "8.5.0",
     "@prisma/client": "5.7.1",
-    "fastify": "4.25.1"
+    "fastify": "4.25.1",
+    "zod": "3.22.4"
   }
 }
